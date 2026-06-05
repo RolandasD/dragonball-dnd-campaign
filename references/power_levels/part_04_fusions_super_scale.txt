@@ -1,0 +1,27 @@
+Late Buu / Fusion Benchmarks
+SSJ2 Vegito: 9,600,000,000,000
+SSJ3 Vegito: 38,400,000,000,000
+SSJG Vegito: 17,000,000,000,000,000
+SSJB Vegito: 850,000,000,000,000,000
+SSJB Kaioken x10 Vegito: 8,500,000,000,000,000,000
+SSJB Kaioken x20 Vegito: 17,000,000,000,000,000,000
+UI Vegito: 170,000,000,000,000,000,000
+MUI Vegito: extremely beyond UI Vegito in the supplied reference
+
+Gogeta Benchmarks
+Gogeta Base: 8,000,000,000
+SSJ Gogeta: 400,000,000,000
+SSJ2 Gogeta: 800,000,000,000
+SSJ3 Gogeta: 3,200,000,000,000
+SSJG Gogeta: 7,000,000,000,000,000
+SSJB Gogeta Manga: 70,000,000,000,000,000
+SSJB Gogeta Anime: 350,000,000,000,000,000
+SSJB Gogeta Manga Full Power: 500,000,000,000,000,000
+
+Relative Super Scaling Notes
+- Goku Black, Zamasu, Vegito Blue, and Super Saiyan Rage Trunks should be compared mainly by relative hierarchy rather than precise PL.
+- Jiren, Beerus, Ultra Instinct Goku, and Limit Break Jiren should be compared mainly by relative hierarchy rather than precise PL.
+- Beerus full power is treated as an extreme upper benchmark in the supplied reference.
+
+Usage warning:
+These late-series values are benchmark/reference material only. For actual play, use saga-relative logic, transformation multipliers, character state, and narrative consistency before relying on exact giant numbers.
