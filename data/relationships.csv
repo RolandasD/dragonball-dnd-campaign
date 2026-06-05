@@ -1,0 +1,14 @@
+character_a,character_b,trust,respect,affection,rivalry,fear,grudge,status,notes
+Goku,Bulma,0,0,0,0,0,0,Not met,
+Goku,Master Roshi,0,0,0,0,0,0,Not met,
+Goku,Oolong,0,0,0,0,0,0,Not met,
+Goku,Yamcha,0,0,0,0,0,0,Not met,
+Goku,Puar,0,0,0,0,0,0,Not met,
+Goku,Chi-Chi,0,0,0,0,0,0,Not met,
+Goku,Ox-King,0,0,0,0,0,0,Not met,
+Goku,Emperor Pilaf,0,0,0,0,0,0,Not met,
+Bulma,Yamcha,0,0,0,0,0,0,Not met,
+Oolong,Bulma,0,0,0,0,0,0,Not met,
+Yamcha,Puar,90,80,0,0,0,0,Close companions,Puar is deeply loyal to Yamcha
+Pilaf,Mai,70,50,0,0,0,0,Loyal team,
+Pilaf,Shu,70,50,0,0,0,0,Loyal team,
