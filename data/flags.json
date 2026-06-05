@@ -1,6 +1,22 @@
 {
   "campaign_started": false,
+  "current_saga": "emperor_pilaf",
+  "current_scene": "morning_hunt",
+  "bulma_met": false,
+  "goku_left_mount_paozu": false,
+  "dragon_radar_intact": true,
+  "four_star_ball_owned_by_goku": true,
+  "turtle_rescued": false,
+  "roshi_met": false,
+  "nimbus_received": false,
+  "oolong_met": false,
+  "yamcha_met": false,
+  "chichi_met": false,
+  "pilaf_met": false,
+  "shenron_summoned": false,
+  "great_ape_incident_occurred": false,
+  "timeline_fractures_remaining": 1,
+  "major_timeline_divergence": false,
   "raditz_alive": false,
-  "vegeta_spared": false,
-  "major_timeline_divergence": false
+  "vegeta_spared": false
 }
