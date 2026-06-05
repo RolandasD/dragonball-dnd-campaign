@@ -1,0 +1,450 @@
+Emperor Pilaf Saga
+Turtle = 0.001
+
+Pocawatha = 1
+
+Puar = 2
+
+Oolong = 3
+
+Bulma = 4
+
+Sherman Priest = 4
+
+Monster Carrot = 5
+
+Pterodactyl = 7
+
+Bear Thief = 8
+
+Chi-Chi = 6
+
+Yamcha = 9
+
+Goku = 10
+
+Mai = 6
+
+Shuu = 6
+
+Pilaf = 3
+
+Ox-King = 150
+
+Goku (Oozaru) = 100
+
+Muten Roshi: 89
+
+Shenlong = 20
+
+Muten Roshi (Buff) =139
+
+Tournament Saga
+Puar = 2
+
+Oolong = 3
+
+World Tournament Chairman = 4
+
+Bulma = 4
+
+World Tournament Announcer = 5
+
+Launch = 6
+
+Yamcha = 73
+
+Ranfan = 14
+
+Krillin = 97
+
+Goku = 110
+
+Giran = 71
+
+Nam = 87
+
+Bacterian = 14
+
+Goku (Tail Regrown) = 124
+
+Muten Roshi = 139
+
+Muten Roshi (Max Power Form)= 180
+
+Goku (Oozaru) = 1240
+
+Master Roshi (Max Power Kamehameha): 215
+
+Red Ribbon Saga
+Suno = 1.5
+
+Puar = 2
+
+Oolong = 3
+
+Dr. Briefs = 4
+
+Mrs. Briefs = 5
+
+Dr. Flappe = 5
+
+Bulma = 5
+
+Hasky = 8
+
+Yamcha = 75
+
+Krillin = 99
+
+Commander Red = 4
+
+Ninja Murasaki = 31
+
+Muten Roshi = 139
+
+Goku = 124
+
+Major Metallitron = 90
+
+Colonel Violet = 8
+
+General White = 15
+
+Assistant Black = 38
+
+General Blue = 74
+
+Android 8 = 100
+
+Buyon = 70
+
+Colonel Silver = 28
+
+General Blue Saga
+Turbo Norimaki = .5
+
+Gatchan = 60
+
+Turtle = 1
+
+Captain Dark = 15
+
+Senbei Norimaki = 4
+
+Bulma = 5
+
+Launch = 7
+
+Obotchaman = 80
+
+Krillin = 101
+
+Commander Red = 4
+
+Pirate Robot = 36
+
+Master Roshi = 139
+
+Goku = 127
+
+Assistant Black = 9
+
+General Blue = 27
+
+Commander Red Saga
+Upa = 1.5
+
+Bulma = 4
+
+Colonel Yellow = 7
+
+Bora = 65
+
+Yamcha = 77
+
+Krillin = 103
+
+Commander Red = 4
+
+Muten Roshi = 139
+
+Goku = 130
+
+General Blue = 74
+
+Assistant Black = 38
+
+Taopaipai = 146
+
+Black Robot Suit = 95
+
+Goku (Post Training) = 157
+
+Korin = 169
+
+Fortuneteller Baba Saga
+Princess Misa = 2.4
+
+Ghost Usher = ??
+
+Konkichi = 2
+
+Vampire Man = 45
+
+Puar = 2
+
+Oolong = 3
+
+Bulma = 5
+
+Launch = 7
+
+Plague = 24
+
+Terror = 30
+
+Bora = 20
+
+Inochiksho = 35
+
+Fortuneteller Baba = ??
+
+Mai = 7
+
+Shuu = 6
+
+Invisible Man = 14
+
+Pilaf = 6
+
+Yamcha = 80
+
+Krillin = 105
+
+Chaozu = 100
+
+Sky Dragon = 55
+
+Crane Hermit = 92
+
+Mummy kun = 45
+
+Muten Roshi = 139
+
+Devil Man = 65
+
+Grandpa Gohan = 156
+
+Gola = 70
+
+Goku = 160
+
+Ten = 160
+
+Tenshinhan Saga
+World Tournament Announcer = 4
+
+Man-Wolf = 19
+
+Pamput = 56
+
+Nam = 95
+
+Yamcha = 128
+
+Krillin = 143
+
+Goku (match mode) = 165
+
+Chaozu = 138
+
+Crane Hermit = 92
+
+Muten Roshi = 139
+
+King Chappa = 70
+
+Muten Roshi (Buff): 180
+
+Goku (full power) = 186
+
+Ten = 186
+
+Piccolo Daimao Saga
+Krillin = 143
+
+Upa = 8.5
+
+Suno = 2.5
+
+King Furry = 5
+
+Dr. Briefs = 5
+
+Mrs. Briefs = 5
+
+World Tournament Announcer = 4
+
+Bulma = 4
+
+Launch = 7
+
+Man-Wolf = 19
+
+Bora = 40
+
+Mai = 7
+
+Shuu = 6
+
+Emperor Pilaf = 4
+
+Chi-Chi = 45
+
+Pamput = 56
+
+Giran = 71
+
+Ox-King = 60
+
+Yamcha (recovering from broken leg) = 128
+
+Bacterian = 14
+
+Chaozu = 138
+
+King Chappa = 70
+
+Cymbal = 143
+
+Android 8 = 38
+
+Goku =186
+
+Yajirobe = 181
+
+Muten Roshi = 139
+
+Piano = 10
+
+Ten = 186
+
+Piccolo Daimao= 201
+
+Korin = 169
+
+Shenlong = 20
+
+Master Mutaito = 175
+
+Piccolo Daimao (Restored Youth) = 260
+
+Goku (Divine Water)= 265
+
+Tambourine = 2,000
+
+Drum = 190
+
+Piccolo Jr. Saga
+Yamcha = 167
+
+Crane Hermit = 92
+
+Krillin = 206
+
+Chi-Chi = 73
+
+Chaozu = 140
+
+King Chappa = 80
+
+Yajirobe = 185
+
+Cyborg Tao = 189
+
+Mr. Popo = 1,030
+
+Kami = 301
+
+Ten = 250
+
+Goku (w/weights) = 280
+
+Piccolo (w/weights suppressed)= 220
+
+Piccolo (w/weights)= 270
+
+Piccolo = 320
+
+Goku = 330
+
+Goku (Super Kamehameha) = 412
+
+Dragon Ball Z Kai
+Saiyan Saga
+Raditz Saga
+Turtle = .001
+
+Gohan (Normal) = 1
+
+Farmer = 5
+
+Bulma = 5
+
+Ox-King = 40
+
+Chi-Chi = 73
+
+Muten Roshi = 139
+
+Grandpa Gohan = 156
+
+Krillin = 216
+
+Korin = 169
+
+Kami = 301
+
+Piccolo (w/weights) = 322
+
+Goku (w/weights) = 334
+
+Piccolo = 408
+
+Goku = 416
+
+Gohan = 710
+
+Goku (Super Kamehameha) = 520
+
+Gohan (Enraged) = 1,307
+
+Piccolo (Makakosappo #1) = 1,330
+
+Piccolo (Makakosappo #2) = 1,480
+
+Raditz = 1,220
+
+Nappa = 4,000
+
+Vegeta = 15,000
+
+Post Battle
+King Yemma: 1,950
+
+Kami: 301
+
+Krillin: 216
+
+Yamcha: 177
+
+Ten: 280
+
+Chaozu: 145
+
+Yajirobe: 185
+
+Mr. Popo: 1,030
+
+Great Ape Gohan: 7,100
