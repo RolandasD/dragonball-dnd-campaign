@@ -1,8 +1,10 @@
 # Campaign Readiness Audit
 
-## Verdict
+## Final Verdict
 
-The campaign is structurally ready to play, with one unresolved policy decision: how to store genuinely hidden simulation values during active play while keeping all GitHub files player-readable.
+**Ready to play.**
+
+The repository now contains the required rules, references, scenario preparation, live trackers, spoiler-state policy, and turn-resolution workflow needed to run the campaign consistently.
 
 ## Fixed During Audit
 
@@ -19,6 +21,8 @@ The campaign is structurally ready to play, with one unresolved policy decision:
 - Added tracker scales.
 - Added live Goku character file.
 - Added Session 001 log.
+- Added hidden-state policy using the open GitHub honor system.
+- Added spoiler-folder warning and initialized the Emperor Pilaf Saga hidden state.
 
 ## Confirmed Ready
 
@@ -35,26 +39,18 @@ The campaign is structurally ready to play, with one unresolved policy decision:
 - Source priority is defined.
 - Turn-resolution protocol is defined.
 - Session logging exists.
+- Hidden-state storage policy is defined.
+- Opening hidden state is initialized.
 - No remaining TBD placeholders found.
 
-## Remaining Decision
+## Hidden-State Ruling
 
-The campaign requires a policy for hidden stats and hidden NPC motives.
+Selected mode: **Open GitHub honor system**.
 
-Current choices conflict:
+Exact hidden values are stored under `data/spoilers/`. The player agrees not to inspect those files during active play unless intentionally choosing to spoil the saga. Relevant hidden information is formally revealed after each saga.
 
-- no hidden DM files in GitHub
-- player can read all GitHub files at any time
-- hidden systems should remain hidden during active play
-- full hidden-stat reveal after each saga
+## Resume Point
 
-Choose one:
+Age 749, September 1 — morning, Mount Paozu.
 
-A. Store hidden values openly in GitHub; player agrees not to inspect them during active play.
-B. Use a separate hidden branch/file set; player does not read it until saga reveal.
-C. Do not store hidden numeric values; use qualitative hidden simulation notes and reconstruct saga-end reveals from events.
-D. Keep hidden values outside GitHub in the active chat/session only, accepting some continuity risk.
-
-## Recommended Choice
-
-B is the most reliable for continuity. C is the cleanest if complete player-readability is more important than exact hidden-number simulation.
+No player action has yet been resolved. Resume with Goku's morning hunt shortly before Bulma arrives.
