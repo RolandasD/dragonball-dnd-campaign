@@ -1,0 +1,146 @@
+# Races Reference
+
+This file records the user's supplied race list for campaign reference.
+
+## Major Races
+
+- Android
+- Angel
+- Cerealian
+- Demon
+- Dragon
+- Eternal Dragon
+- Shadow Dragon
+- Earthling
+- Frieza Clan
+- Glind
+- Majin
+- Buu's subspecies
+- Demon Realm Race
+- Namekian
+- Saiyan
+- Super Saiyan God
+- Tuffle
+
+## Other Races
+
+- Aka's race
+- Alpha-seijin
+- Animal
+- Ankoku-seijin
+- Appule's race
+- Arlian
+- Arcosian
+- Babarian
+- Boulean
+- Beenz
+- Beerus' race
+- Beppa-seijin
+- Bibidi's race
+- Bio-Android
+- Bio-Man
+- Bio-Warrior
+- Botamo's race
+- Blueberry's race
+- Brench-seijin
+- Burter's race
+- Cabira's race
+- Caterpillar
+- Cranberry's race
+- Cui's race
+- Devil
+- Dinosaur
+- Dodoria's race
+- Dorakiyan
+- Fairy
+- Fishman
+- Fish Snake
+- Frieza Soldier race
+- Fu-Lum
+- Gelboian
+- Ghost
+- Giant Fish
+- Ginyu's race
+- Giras
+- Glass Tribe
+- Hedgehog-like Humanoid Race
+- Hera Clan
+- Heeter's race
+- Ikonda-seijin
+- Imeckian
+- Inhabitants of Plant
+- Iru's race
+- Jiang Shi
+- Jiggler
+- Jiren's race
+- Kabochan
+- Kanassan
+- Kashvar
+- Kawa
+- Konatsian
+- Kuhn-seijin
+- Ledgic's race
+- Litt
+- Machine Mutant
+- Serpent
+- Malaka's race
+- Martian
+- Meatian
+- Mermaid
+- Metalman
+- Metamoran
+- Mixxileean
+- Mogan
+- Moginaian
+- Neko Majin
+- Nikochan-seijin
+- Octo
+- Oggers' race
+- Ogre
+- Okakaume-seijin
+- Oslet aliens
+- Outa-seijin
+- Plantian
+- Prum's race
+- Recoome's race
+- Referee's race
+- Rejinean
+- Roundworm
+- Saibaman
+- Samaro
+- Shamoian
+- Shirt
+- Sinkleean
+- Skeleton
+- Slug-jin
+- Snackian
+- Space Lemur
+- Sprite
+- Sugarian
+- Sūi's race
+- Tabbu-seijin
+- Tech-Tech
+- Triclops
+- Toadmen
+- Toasterean
+- Tokitoki
+- Toobi's race
+- Tribal bird aliens
+- Tritekian
+- Unnamed mushroom-like aliens
+- Unnamed insectoids
+- Vampa Beast
+- Vampa Beetle
+- Vampire
+- Vewonean
+- Wagashi-seijin
+- Werewolf
+- Yardrat
+- Zalt-seijin
+- Zarbon's race
+- Zombie
+- Zoon-seijin
+
+## Usage Rule
+
+This list is a worldbuilding reference. A race should receive detailed biology, culture, strengths, weaknesses, and progression rules only when it becomes relevant to the active campaign.
