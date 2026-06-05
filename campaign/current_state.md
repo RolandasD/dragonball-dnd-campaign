@@ -1,7 +1,7 @@
 # Current State
 
 ## Campaign Status
-Ready to begin.
+Active.
 
 ## Date
 Age 749, September 1 — morning.
@@ -9,14 +9,17 @@ Age 749, September 1 — morning.
 ## Current Saga
 Emperor Pilaf Saga.
 
+## Current Scene
+Bulma's Arrival.
+
 ## Current Location
-Mount Paozu, near Goku's home and fishing grounds.
+Mount Paozu mountain road near the river.
 
 ## Player Character
 Son Goku.
 
 ## Current Objective
-Find breakfast and return home safely.
+Figure out the strange machine and protect breakfast.
 
 ## Party
 - Goku
@@ -25,16 +28,16 @@ Find breakfast and return home safely.
 - Goku: 10
 
 ## Important Inventory
-- Grandpa Gohan's Four-Star Dragon Ball
-- Power Pole
-- simple wilderness supplies
+- Power Pole: carried
+- Giant fish: carried
+- Grandpa Gohan's Four-Star Dragon Ball: safe at home
 
-## Immediate Next Scene
-Goku begins an ordinary morning hunt shortly before an unfamiliar vehicle approaches Mount Paozu.
+## Immediate Situation
+Goku quickly caught the giant fish and followed the strange rumbling. A blue vehicle struck him on the mountain road. Goku is unharmed. A shocked blue-haired girl has stepped out of the machine.
 
 ## Active Threats
-- Normal wilderness dangers
-- Unknown vehicle approaching the mountain
+- Unknown blue-haired stranger
+- Unfamiliar vehicle
 - Severe tail weakness
 
 ## Known Dragon Ball Locations
