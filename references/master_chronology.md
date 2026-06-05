@@ -153,7 +153,7 @@ Potential movie insertion zone includes:
 
 ## Dragon Ball GT Branch
 
-GT is included as a possible branch, not an automatic future.
+GT is an expected future branch unless campaign divergences make it impossible. It may be carefully merged with Super-era continuity.
 
 ### Age 789–790
 
@@ -174,13 +174,13 @@ Track separately when activated:
 - Future Trunks timeline
 - Cell's alternate timeline
 - Goku Black / erased future timeline
-- Any campaign-created Timeline Fracture branches
+- any campaign-created Timeline Fracture branches
 
 ## Movie Inclusion Rule
 
-All Dragon Ball movies are available as campaign content.
+Original Dragon Ball theatrical retellings are excluded by default. Nearly all Dragon Ball Z and later movies are available as campaign content.
 
-Each movie should be treated as a potential arc whose placement and survival depend on the current timeline. Do not force movie events when their required setup has been invalidated by divergences.
+Each included movie should be treated as a potential arc whose placement and survival depend on the current timeline. Do not force movie events when their required setup has been invalidated by divergences.
 
 ## Usage Rule
 
