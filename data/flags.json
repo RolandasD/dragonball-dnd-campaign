@@ -1,8 +1,8 @@
 {
   "campaign_started": true,
   "current_saga": "emperor_pilaf",
-  "current_scene": "morning_hunt",
-  "bulma_met": false,
+  "current_scene": "bulma_arrival",
+  "bulma_met": true,
   "goku_left_mount_paozu": false,
   "dragon_radar_intact": true,
   "four_star_ball_owned_by_goku": true,
