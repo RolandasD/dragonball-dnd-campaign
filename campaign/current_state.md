@@ -10,48 +10,60 @@ Age 749, September 1 — morning.
 Emperor Pilaf Saga.
 
 ## Current Scene
-Leaving Mount Paozu.
+Roshi Beach Conversation.
 
 ## Current Location
-Goku's house, Mount Paozu.
+Beach near the coast, close to Kame House waters.
 
 ## Player Character
 Son Goku.
 
 ## Current Objective
-Travel with Bulma to search for the Dragon Balls while keeping Grandpa Gohan's Four-Star Ball safe.
+Talk with Master Roshi about Grandpa Gohan, Turtle School, and Goku's potential.
 
 ## Party
 - Goku
 - Bulma
 
+## Present NPCs
+- Turtle
+- Master Roshi
+
 ## Current Power Levels
 - Goku: 10
 - Bulma: 4
+- Turtle: 0.001
+- Master Roshi: 89
 
 ## Important Inventory
 - Power Pole: carried by Goku
-- Giant fish: available as food
 - Four-Star Dragon Ball: kept by Goku
 - Two-Star Dragon Ball: carried by Bulma
+- Three-Star Dragon Ball: given by Roshi to Goku
 - Five-Star Dragon Ball: carried by Bulma
 - Dragon Radar: carried by Bulma
 
 ## Immediate Situation
-Bulma explained that collecting all seven Dragon Balls can summon a dragon to grant a wish. Goku asked whether the dragon could bring Grandpa Gohan back. Bulma said it might be possible, but she is not completely sure how death wishes work. Goku agreed to travel with Bulma while keeping the Four-Star Ball himself.
+Goku left Mount Paozu with Bulma after saying goodbye to Grandpa Gohan's house and eating the giant fish. On the road toward the coast, he helped a lost Turtle by carrying him while running, treating it as exercise, and even beat Bulma's car in a race while carrying Turtle. Turtle returned with Master Roshi. Goku politely bowed and admitted he rescued Turtle. Roshi gave Goku the Three-Star Dragon Ball after learning the wish might be connected to reviving Grandpa Gohan. Roshi revealed that Grandpa Gohan was one of his students and is now actively evaluating Goku as potential martial arts material.
+
+## Current Conversation
+Master Roshi has asked whether Grandpa Gohan taught Goku much. Goku has already said that Grandpa Gohan died and he does not remember how. Goku then asked about Grandpa's training and whether Grandpa was stronger than Roshi. Roshi explained Turtle School fundamentals and asked:
+
+> "Gohan teach you much?"
 
 ## Active Concerns
 - Goku does not fully understand wishes, death, or modern society.
-- Bulma still wants access to the Four-Star Ball for her own wish.
-- Goku is protective of the Four-Star Ball.
-- Severe tail weakness remains unknown to Bulma.
+- Bulma still wants to gather the Dragon Balls for her boyfriend wish.
+- Goku is protective of the Four-Star Ball and emotionally interested in reviving Grandpa Gohan.
+- Roshi noticed Goku's tail and unusual strength.
+- Severe tail weakness remains unknown to Bulma and Roshi.
 
 ## Known Dragon Ball Locations
-- Four-Star Ball: Goku
 - Two-Star Ball: Bulma
+- Three-Star Ball: Goku / party
+- Four-Star Ball: Goku
 - Five-Star Ball: Bulma
 - One-Star Ball: Emperor Pilaf
-- Three-Star Ball: unknown to party
 - Six-Star Ball: unknown
 - Seven-Star Ball: unknown
 
