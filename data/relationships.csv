@@ -1,6 +1,7 @@
 character_a,character_b,trust,respect,affection,rivalry,fear,grudge,status,notes
-Goku,Bulma,12,5,0,0,0,0,Travel companions,Goku agreed to travel after Bulma explained Dragon Balls; trust is limited because he keeps the Four-Star Ball
-Goku,Master Roshi,0,0,0,0,0,0,Not met,
+Goku,Bulma,18,10,0,0,0,0,Travel companions,Goku agreed to travel; Bulma showed understanding when Goku left home and gained respect after he rescued Turtle and beat the car while carrying him
+Goku,Master Roshi,20,18,0,0,0,0,Positive first meeting,Roshi knows Grandpa Gohan connection and is actively evaluating Goku as potential student
+Goku,Turtle,35,10,0,0,0,0,Friendly,Goku rescued Turtle and carried him to the sea while running
 Goku,Oolong,0,0,0,0,0,0,Not met,
 Goku,Yamcha,0,0,0,0,0,0,Not met,
 Goku,Puar,0,0,0,0,0,0,Not met,
