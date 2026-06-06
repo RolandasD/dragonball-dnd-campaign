@@ -2,9 +2,11 @@
 
 ## Active Now
 
-- Bulma is approaching Mount Paozu while tracking the Four-Star Dragon Ball.
-- Goku does not know Dragon Balls grant wishes.
-- Goku does not understand vehicles, firearms, capsules, or modern society.
+- Goku has agreed to travel with Bulma while keeping Grandpa Gohan's Four-Star Dragon Ball himself.
+- Goku now knows the Dragon Balls can summon a wish-granting dragon.
+- Goku is considering whether the dragon might bring Grandpa Gohan back.
+- Goku does not understand vehicles, firearms, capsules, romance, or modern society.
+- Bulma still wants to gather all seven Dragon Balls for her own wish.
 - Emperor Pilaf is searching for the remaining Dragon Balls.
 
 ## Dormant Early-Saga Threads
@@ -25,4 +27,4 @@
 
 ## Resolved Threads
 
-None.
+- Bulma reached Mount Paozu and met Goku.
