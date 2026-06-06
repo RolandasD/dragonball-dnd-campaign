@@ -1,10 +1,11 @@
 owner,item,quantity,status,location,notes
-Goku,Power Pole,1,Carried,Goku's house,Grandpa Gohan's weapon
-Goku,Giant fish,1,Available,Goku's house,Breakfast and travel food
+Goku,Power Pole,1,Carried,Beach near coast,Grandpa Gohan's weapon
 Goku,Four-Star Dragon Ball,1,Carried,Goku,Grandpa Gohan's keepsake; Goku will not hand it over
-Bulma,Dragon Radar,1,Functional,Goku's house,Tracks Dragon Balls
+Goku,Three-Star Dragon Ball,1,Carried,Goku,Given by Master Roshi after Grandpa Gohan connection
+Bulma,Dragon Radar,1,Functional,Beach near coast,Tracks Dragon Balls
 Bulma,Two-Star Dragon Ball,1,Carried,Bulma,
 Bulma,Five-Star Dragon Ball,1,Carried,Bulma,
 Bulma,Firearm,1,Loaded,Bulma,
 Bulma,Capsule supplies,Several,Functional,Bulma,Includes vehicle and travel equipment
+Bulma,Vehicle,1,Functional,Beach near coast,Car used to leave Mount Paozu
 Emperor Pilaf,One-Star Dragon Ball,1,Secured,Pilaf Castle,
