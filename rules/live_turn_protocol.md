@@ -1,10 +1,12 @@
 # Live-Turn Protocol
 
-Use this protocol before and after every campaign reply.
+Use this protocol to keep the campaign consistent without slowing play to a crawl.
 
 ## Before Resolving a Player Action
 
-Read and cross-check:
+For ordinary choices, check the current state, active scene, relevant character knowledge, and any immediately relevant trackers.
+
+For major choices, combat, Dragon Ball movement, relationship shifts, power changes, timeline divergence, or session start/end, cross-check:
 
 1. `rules/campaign_master_profile.md`
 2. `campaign/current_state.md`
@@ -32,23 +34,28 @@ Read and cross-check:
 8. Resolve consequences for all relevant characters and factions.
 9. Present a short scene with concise narration and 5-6 choices plus option 10.
 
-## After Every Player Action
+## GitHub Update Cadence
 
-Update every file affected by the turn:
+Do **not** update GitHub after every tiny interaction.
 
-- `campaign/current_state.md`
-- `data/flags.json`
-- `data/power_levels.csv`
-- `data/relationships.csv`
-- `data/inventory.csv`
-- `data/dragon_balls.csv`
-- `data/skills_and_techniques.csv`
-- `data/open_threads.md`
-- `data/divergence_tracker.md`
-- relevant character files
-- current session log
+Update GitHub after meaningful state changes, such as:
 
-Do not update files that did not change merely to create noise.
+- new scene or location
+- new party member or first meeting
+- item gained, lost, damaged, or moved
+- Dragon Ball location or ownership change
+- power level, skill, technique, injury, or transformation change
+- relationship change
+- combat result
+- timeline divergence
+- flag change
+- session end
+
+For small dialogue, flavor, or investigation turns with no durable state change, continue play without a GitHub write.
+
+## Batch Updates
+
+When several small actions happen in a row, batch them into one update at the next natural checkpoint.
 
 ## Continuity Stop Rule
 
