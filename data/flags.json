@@ -1,9 +1,12 @@
 {
   "campaign_started": true,
   "current_saga": "emperor_pilaf",
-  "current_scene": "bulma_arrival",
+  "current_scene": "leaving_mount_paozu",
   "bulma_met": true,
   "goku_left_mount_paozu": false,
+  "goku_agreed_to_travel_with_bulma": true,
+  "goku_knows_dragon_balls_grant_wish": true,
+  "goku_considering_grandpa_resurrection": true,
   "dragon_radar_intact": true,
   "four_star_ball_owned_by_goku": true,
   "turtle_rescued": false,
