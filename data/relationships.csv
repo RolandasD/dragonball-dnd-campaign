@@ -1,15 +1,21 @@
 character_a,character_b,trust,respect,affection,rivalry,fear,grudge,status,notes
-Goku,Bulma,18,10,0,0,0,0,Travel companions,Goku agreed to travel; Bulma showed understanding when Goku left home and gained respect after he rescued Turtle and beat the car while carrying him
-Goku,Master Roshi,20,18,0,0,0,0,Positive first meeting,Roshi knows Grandpa Gohan connection and is actively evaluating Goku as potential student
+Goku,Bulma,34,22,0,0,8,0,Travel companions,Survived first Dragon Ball hunt together; Bulma saw Great Ape danger but believes Goku was not himself
+Goku,Master Roshi,34,35,0,0,0,0,Strong mentor hook,Roshi knew Grandpa Gohan; gave Three-Star Ball and Nimbus; saw Goku's Kamehameha spark and may train him later
 Goku,Turtle,35,10,0,0,0,0,Friendly,Goku rescued Turtle and carried him to the sea while running
-Goku,Oolong,0,0,0,0,0,0,Not met,
-Goku,Yamcha,0,0,0,0,0,0,Not met,
-Goku,Puar,0,0,0,0,0,0,Not met,
-Goku,Chi-Chi,0,0,0,0,0,0,Not met,
-Goku,Ox-King,0,0,0,0,0,0,Not met,
-Goku,Emperor Pilaf,0,0,0,0,0,0,Not met,
-Bulma,Yamcha,0,0,0,0,0,0,Not met,
-Oolong,Bulma,0,0,0,0,0,0,Not met,
-Yamcha,Puar,90,80,0,0,0,0,Close companions,Puar is deeply loyal to Yamcha
+Goku,Oolong,14,6,0,0,4,0,Reluctant allies,Goku exposed and beat Oolong; Oolong joined as useful punishment and later stopped Pilaf's wish
+Goku,Yamcha,20,28,0,24,0,0,Rivalry seed,Goku defeated Yamcha twice in the first encounter and encouraged him to train/work on his fear
+Goku,Puar,25,18,0,0,0,0,Friendly cautious,Puar cut off Goku's tail to stop Great Ape; Goku thanked Puar afterward
+Goku,Chi-Chi,28,20,8,0,0,0,Positive first bond,Goku saved Chi-Chi from dinosaur; Chi-Chi can ride Nimbus; shy first bond formed
+Goku,Ox-King,30,22,0,0,0,0,Grateful ally,Goku saved Chi-Chi and helped resolve Fry-Pan Mountain; Ox-King's castle was destroyed by Roshi's Kamehameha
+Goku,Emperor Pilaf,0,0,0,0,0,30,Enemy,Pilaf stole Dragon Balls with sleeping gas and tried to wish for world domination; failed due to Oolong
+Goku,Mai,0,0,0,0,0,10,Enemy,Mai helped Pilaf protect control room and execute trap plan
+Goku,Shu,0,0,0,0,0,10,Enemy,Shu operated traps/shutters/sleeping gas for Pilaf
+Bulma,Yamcha,5,5,0,0,0,0,Awkward interest,Yamcha fears women; Bulma knows his weakness and watched him lose to Goku
+Bulma,Oolong,5,0,0,0,0,8,Annoyed allies,Oolong caused trouble but saved the world with the wish; Bulma still finds him gross/annoying
+Bulma,Puar,16,10,0,0,0,0,Friendly,Puar helped during Pilaf Castle and saved everyone by cutting Goku's tail
+Yamcha,Puar,90,80,0,0,0,0,Close companions,Puar is deeply loyal to Yamcha and helped stop Great Ape Goku
+Yamcha,Bulma,5,5,0,0,45,0,Awkward fear,Yamcha wants to overcome fear of women and may follow the group for that reason
+Yamcha,Oolong,0,0,0,0,0,0,Uneasy allies,Both involved in first hunt but not close
 Pilaf,Mai,70,50,0,0,0,0,Loyal team,
 Pilaf,Shu,70,50,0,0,0,0,Loyal team,
+Pilaf,Party,0,0,0,0,20,45,Recurring enemy,Pilaf's wish was ruined and his castle badly damaged during Great Ape incident
