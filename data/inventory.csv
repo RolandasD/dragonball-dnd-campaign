@@ -1,11 +1,15 @@
 owner,item,quantity,status,location,notes
-Goku,Power Pole,1,Carried,Beach near coast,Grandpa Gohan's weapon
-Goku,Four-Star Dragon Ball,1,Carried,Goku,Grandpa Gohan's keepsake; Goku will not hand it over
-Goku,Three-Star Dragon Ball,1,Carried,Goku,Given by Master Roshi after Grandpa Gohan connection
-Bulma,Dragon Radar,1,Functional,Beach near coast,Tracks Dragon Balls
-Bulma,Two-Star Dragon Ball,1,Carried,Bulma,
-Bulma,Five-Star Dragon Ball,1,Carried,Bulma,
+Goku,Power Pole,1,Carried,Pilaf Castle ruins,Grandpa Gohan's weapon
+Goku,Flying Nimbus,1,Available nearby,Pilaf Castle ruins,Gift from Master Roshi; Goku can ride it
+Goku,Four-Star Dragon Ball,0,Lost/scattered,Unknown,Grandpa Gohan's keepsake; scattered and inactive for one year after Oolong's wish
+Goku,Three-Star Dragon Ball,0,Lost/scattered,Unknown,Given by Master Roshi; scattered and inactive for one year after Oolong's wish
+Bulma,Dragon Radar,1,Functional,Pilaf Castle ruins,Tracks Dragon Balls when active; currently all balls are stone/inactive
+Bulma,Two-Star Dragon Ball,0,Lost/scattered,Unknown,Scattered and inactive for one year after Oolong's wish
+Bulma,Five-Star Dragon Ball,0,Lost/scattered,Unknown,Scattered and inactive for one year after Oolong's wish
+Bulma,Six-Star Dragon Ball,0,Lost/scattered,Unknown,Obtained from Aru Village; scattered and inactive for one year after Oolong's wish
+Bulma,Seven-Star Dragon Ball,0,Lost/scattered,Unknown,Recovered from Fry-Pan Mountain ruins; scattered and inactive for one year after Oolong's wish
 Bulma,Firearm,1,Loaded,Bulma,
-Bulma,Capsule supplies,Several,Functional,Bulma,Includes vehicle and travel equipment
-Bulma,Vehicle,1,Functional,Beach near coast,Car used to leave Mount Paozu
-Emperor Pilaf,One-Star Dragon Ball,1,Secured,Pilaf Castle,
+Bulma,Capsule supplies,Several,Functional,Bulma,Includes travel equipment and repair tools
+Bulma,Vehicle,1,Damaged/capsule-stored,Bulma,Overheated in the desert before Fry-Pan Mountain
+Oolong,Panties from Shenron wish,1,Carried/embarrassing,Pilaf Castle ruins,Oolong's wish item; saved the world in the stupidest possible way
+Emperor Pilaf,One-Star Dragon Ball,0,Lost/scattered,Unknown,Scattered and inactive for one year after Oolong's wish
