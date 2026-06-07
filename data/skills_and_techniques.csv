@@ -1,19 +1,23 @@
 character,skill_or_technique,category,mastery,status,notes
-Goku,Wilderness Survival,Skill,High,Active,Self-taught on Mount Paozu
-Goku,Power Pole Combat,Skill,Moderate,Active,Learned from Grandpa Gohan
-Goku,Unarmed Martial Arts,Skill,Moderate,Active,Natural talent plus Grandpa Gohan basics
-Goku,Combat Adaptation,Skill,High,Active,Saiyan talent
-Goku,Social Awareness,Skill,Very Low,Active,First exposure to wider world underway
+Goku,Wilderness Survival,Skill,High,Active,Self-taught on Mount Paozu; used tracking/smell during Aru and desert travel
+Goku,Power Pole Combat,Skill,Moderate,Active,Used to defeat Yamcha and test Pilaf Castle trap structures
+Goku,Unarmed Martial Arts,Skill,Moderate,Active,Natural talent plus Grandpa Gohan basics; defeated Oolong and Yamcha
+Goku,Combat Adaptation,Skill,High,Active,Read Yamcha's Wolf Fang Fist rhythm and countered after observing pattern
+Goku,Social Awareness,Skill,Very Low,Active,Learning through Bulma/Oolong/Yamcha/Chi-Chi interactions
 Goku,Ki Sensing,Skill,None,Unlearned,
-Goku,Ki Control,Skill,None,Unlearned,
-Goku,Kamehameha,Technique,None,Unlearned,
-Goku,Endurance / Leg Conditioning,Skill,Very Low,Training Progress,Tiny progress from carrying Turtle while running and racing Bulma's car
-Bulma,Engineering,Skill,Exceptional,Active,
+Goku,Ki Control,Skill,Tiny Spark,Training Seed,Produced a tiny unstable burst after seeing Roshi's Kamehameha once; unsafe without training
+Goku,Kamehameha,Technique,Tiny Unstable Spark,Training Seed,Watched Roshi closely and copied stance; not learned or mastered; Roshi warned him not to force it
+Goku,Endurance / Leg Conditioning,Skill,Very Low,Training Progress,Progress from carrying Turtle and pulling Oolong-cart in desert
+Goku,Battlefield Awareness,Skill,Beginner Seed,Training Seed,Roshi gave a quick lesson about watching the whole battlefield instead of only the obvious target
+Goku,Wolf Fang Fist Rhythm Reading,Observation,Beginner Seed,Observed Yamcha's timing and briefly copied animal-style movement; not a learned technique
+Bulma,Engineering,Skill,Exceptional,Active,Managed vehicle/capsule logistics and desert water filtering
 Bulma,Firearms,Skill,Moderate,Active,
-Bulma,Wilderness Survival,Skill,Low,Active,
-Yamcha,Unarmed Martial Arts,Skill,High,Active,
+Bulma,Wilderness Survival,Skill,Low,Active,Improving slightly through travel but still physically vulnerable
+Yamcha,Unarmed Martial Arts,Skill,High,Active,Used Wolf Fang Fist against Goku
 Yamcha,Desert Survival,Skill,High,Active,
-Oolong,Transformation,Technique,Moderate,Active,Limited duration and stamina
-Puar,Transformation,Technique,High,Active,More sustainable than Oolong
-Master Roshi,Kamehameha,Technique,Mastered,Active,
-Master Roshi,Turtle School Fundamentals,Skill,Mastered,Active,
+Yamcha,Wolf Fang Fist,Technique,Early Mastery,Active,Strong early technique; Goku studied its rhythm
+Oolong,Transformation,Technique,Moderate,Active,Limited to about five minutes before cooldown; used cart form and small form during Pilaf Castle
+Puar,Transformation,Technique,High,Active,More sustainable than Oolong; used small/flight forms and cut off Goku's tail during Great Ape incident
+Master Roshi,Kamehameha,Technique,Mastered,Active,Extinguished Fry-Pan Mountain fire and destroyed most of Ox-King's castle
+Master Roshi,Turtle School Fundamentals,Skill,Mastered,Active,Gave Goku quick battlefield-awareness lesson and future training hook
+Chi-Chi,Nimbus Riding,Trait,Confirmed,Active,Can ride Flying Nimbus
