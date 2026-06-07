@@ -34,6 +34,24 @@ For major choices, combat, Dragon Ball movement, relationship shifts, power chan
 8. Resolve consequences for all relevant characters and factions.
 9. Present a short scene with concise narration and 5-6 choices plus option 10.
 
+## Combat Beat Protocol
+
+For meaningful battles, do not normally resolve the whole fight in one narration block.
+
+Default combat flow:
+
+1. Opening clash or threat reveal.
+2. Brief status/position update.
+3. Numbered choices for Goku's next action.
+4. Repeat until the fight is logically decided.
+
+Exceptions:
+
+- the power gap makes the result obvious
+- the player picked a clear finishing action
+- the scene is a quick gag or non-meaningful scuffle
+- Goku loses consciousness or control; then follow Goku's perspective and resume when he wakes or regains awareness
+
 ## GitHub Update Cadence
 
 Do **not** update GitHub after every tiny interaction.
